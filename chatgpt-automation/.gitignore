@@ -1,0 +1,23 @@
+# Local secrets and credentials
+**/extension-secret.txt
+**/.env
+**/.env.*
+**/*apikey*
+**/*api-key*
+**/firebase-auth.local.json
+
+# Private runtime state / logs
+**/state.json
+**/state.*.json
+**/state.lock
+**/events.jsonl
+**/three-step-check.txt
+**/*.log
+**/__pycache__/
+**/*.py[cod]
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
